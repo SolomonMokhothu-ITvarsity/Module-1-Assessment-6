@@ -1,0 +1,45 @@
+gallary img{
+    width: 50%;
+}
+table{
+    width: 600px;
+}
+th{
+    text-align: left;
+}
+
+table,th,td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: inherit;
+    color:darkred;
+    background-color:aquamarine;
+    
+}
+
+body
+{
+    font-size: 20px; 
+    font-style: oblique;
+    align-content: space-around;
+    background-color:#FFFFFF;
+    image-resolution: snap;
+    background-blend-mode: difference;
+    text-decoration: inherit;
+    font-family: sans-serif; 
+}
+
+
+    h1{
+        color: blueviolet;
+        background-color:mediumpurple;
+    }  
+    h2,h3,h4,h5,h6{
+        color:blueviolet;
+        background-color:darkgoldenrod;
+        
+    }
+    p{color: indigo;
+    
+    }
+}
